@@ -11,19 +11,21 @@ There are lots of great podcasts coming out these days. I wanted to compile a li
  Title:  Migrations
 ![HTML-All-The-Things---Web-Development,-Web-Design,-Small-Business](./wc_viz/HTML-All-The-Things---Web-Development,-Web-Design,-Small-Business.jpg)
 
+## The CGD Podcast
+### Latest Episode: 
+ Title:  Sounds Robotic: A CGD Podcast – Amolo Ngweno
+![The-CGD-Podcast](./wc_viz/The-CGD-Podcast.jpg)
+
+## INDE's Augmented Reality Podcast
+### Latest Episode: 
+ Title:  Ep. 20 - VR, AR, MR (and other acronyms)...what is the difference? - INDE's AR Podcast
+![INDE's-Augmented-Reality-Podcast](./wc_viz/INDE's-Augmented-Reality-Podcast.jpg)
+
 ## Relative Paths | Web Development and stuff like that
 ### Latest Episode: 
  Title:  56: Gimme the cash | Tinkling the ivories
-![Relative-Paths-|-Web-Development-and-stuff-like-that](./wc_viz/Relative-Paths-|-Web-Development-and-stuff-like-that.jpg)
+![Relative-Paths-|-Web-Development-and-stuff-like-that](./wc_viz/Relative-Paths-_-Web-Development-and-stuff-like-that.jpg)
 
-## devMode.fm
-### Latest Episode: 
- Title:  Una Kravets on Google Material Design & web trends
-![devMode.fm](./wc_viz/devMode.fm.jpg)
-
-## Smart Web Creators
-### Latest Episode: 
- Title:  Ready your Twitter for more business growth with Bridget Willard – SWC 37
 
  ## The 8Bit Podcast
 ### Latest Episode: 
@@ -39,6 +41,11 @@ There are lots of great podcasts coming out these days. I wanted to compile a li
 ### Latest Episode: 
  Title:  Getting a Job in Tech
 ![Script-&-Style](./wc_viz/Script-&-Style.jpg)
+
+## Custom Ecommerce Web Development
+### Latest Episode: 
+ Title:  How to Improve Customer Experience in eCommerce
+![Custom-Ecommerce-Web-Development](./wc_viz/Custom-Ecommerce-Web-Development.jpg)
 
 ## DevEd Podcast
 ### Latest Episode: 
@@ -89,16 +96,6 @@ There are lots of great podcasts coming out these days. I wanted to compile a li
  Title:  S2 E25 Learning To Code After 30 - Stephen Doherty Interview 
 ![How-To-Code-Well](./wc_viz/How-To-Code-Well.jpg)
 
-## The CGD Podcast
-### Latest Episode: 
- Title:  Sounds Robotic: A CGD Podcast – Amolo Ngweno
-![The-CGD-Podcast](./wc_viz/The-CGD-Podcast.jpg)
-
-## INDE's Augmented Reality Podcast
-### Latest Episode: 
- Title:  Ep. 20 - VR, AR, MR (and other acronyms)...what is the difference? - INDE's AR Podcast
-![INDE's-Augmented-Reality-Podcast](./wc_viz/INDE's-Augmented-Reality-Podcast.jpg)
-
 
 ## SDxCentral Weekly Wrap
 ### Latest Episode: 
@@ -110,8 +107,3 @@ There are lots of great podcasts coming out these days. I wanted to compile a li
 ### Latest Episode: 
  Title:  SVGs with Sara Soueidan
 ![Syntax---Tasty-Web-Development-Treats](./wc_viz/Syntax---Tasty-Web-Development-Treats.jpg)
-
-## Custom Ecommerce Web Development
-### Latest Episode: 
- Title:  How to Improve Customer Experience in eCommerce
-![Custom-Ecommerce-Web-Development](./wc_viz/Custom-Ecommerce-Web-Development.jpg)
